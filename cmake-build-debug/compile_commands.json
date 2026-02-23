@@ -1,0 +1,68 @@
+[
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\ServeurBoursier_autogen\\mocs_compilation.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\cmake-build-debug\\ServeurBoursier_autogen\\mocs_compilation.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/mocs_compilation.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/ServeurBoursier_autogen/mocs_compilation.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\gui\\LoginWindow.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\gui\\LoginWindow.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/gui/LoginWindow.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/gui/LoginWindow.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\main\\main.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\main\\main.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/main/main.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/main/main.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\core\\Ordre.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\core\\Ordre.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/core/Ordre.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/core/Ordre.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\core\\Transaction.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\core\\Transaction.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/core/Transaction.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/core/Transaction.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\engine\\MatchingEngine.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\engine\\MatchingEngine.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/engine/MatchingEngine.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/engine/MatchingEngine.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\system\\Serveur.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\system\\Serveur.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/system/Serveur.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/system/Serveur.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\system\\Interface.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\system\\Interface.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/system/Interface.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/system/Interface.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\user\\Client.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\user\\Client.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/user/Client.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/user/Client.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\user\\Portefeuille.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\user\\Portefeuille.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/user/Portefeuille.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/user/Portefeuille.cpp.obj"
+},
+{
+  "directory": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug",
+  "command": "C:\\PROGRA~1\\JETBRA~1\\CLION2~1.3\\bin\\mingw\\bin\\G__~1.EXE -DMINGW_HAS_SECURE_API=1 -DQT_CORE_LIB -DQT_GUI_LIB -DQT_WIDGETS_LIB -DUNICODE -DWIN32 -DWIN64 -D_ENABLE_EXTENDED_ALIGNED_STORAGE -D_UNICODE -D_WIN64 -IC:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/ServeurBoursier_autogen/include -IC:/Users/rasle/Desktop/ServeurBoursier/include -isystem C:/Qt/6.10.2/mingw_64/include/QtWidgets -isystem C:/Qt/6.10.2/mingw_64/include -isystem C:/Qt/6.10.2/mingw_64/include/QtCore -isystem C:/Qt/6.10.2/mingw_64/mkspecs/win32-g++ -isystem C:/Qt/6.10.2/mingw_64/include/QtGui -g -std=gnu++17 -fdiagnostics-color=always -o CMakeFiles\\ServeurBoursier.dir\\src\\gui\\DashboardWindow.cpp.obj -c C:\\Users\\rasle\\Desktop\\ServeurBoursier\\src\\gui\\DashboardWindow.cpp",
+  "file": "C:/Users/rasle/Desktop/ServeurBoursier/src/gui/DashboardWindow.cpp",
+  "output": "C:/Users/rasle/Desktop/ServeurBoursier/cmake-build-debug/CMakeFiles/ServeurBoursier.dir/src/gui/DashboardWindow.cpp.obj"
+}
+]
